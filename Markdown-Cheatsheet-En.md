@@ -2,7 +2,7 @@
  *   https://github.com/andreysssr/Markdown-Cheatsheet
 -->
 
-# Cheatsheet on Markdown - Markdown syntax
+# Markdown Cheatsheet - Markdown syntax
 
 ---
 
