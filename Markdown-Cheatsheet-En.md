@@ -552,9 +552,9 @@ In order for special characters not to disappear and not affect the design,
 you need to use shielding. As in many other
 programming languages, the backslash serves these purposes.
 
-\*No italics\*
-\*\*No bold selection\*\*
-\# No headlines H1 \#
+\*No italics\*  
+\*\*No bold selection\*\*  
+\# No headlines H1 \#  
 
 [code] ↓
 ```
